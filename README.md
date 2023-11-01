@@ -9,7 +9,7 @@ To use this bot, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/discord-quote-bot.git
+    git clone https://github.com/lemejobless/discord-quote-bot.git
     ```
 
 2. Install the required Python packages:
