@@ -7,6 +7,7 @@ from discord.ext import tasks
 from PIL import Image, ImageDraw, ImageFont
 import requests
 
+#change this according to your use case
 csvurl = os.environ['csvurl']
 YOUR_DISCORD_BOT_TOKEN = os.environ['YOUR_DISCORD_BOT_TOKEN']
 your_channel_id = int(os.environ['your_channel_id'])  # Convert to int if it's a numeric channel ID
