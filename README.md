@@ -35,7 +35,7 @@ Set the following environment variables:
 2. Run the bot:
 
     ```bash
-    python bot.py
+    python main.py
     ```
 
 The bot will automatically start sending quotes to the specified Discord channel every 18 hours.
@@ -48,7 +48,7 @@ The bot fetches data from the provided Google Drive link (CSV format) containing
 - `Pillow`
 
 ## File Structure
-- `bot.py`: Contains the Discord bot code.
+- `main.py`: Contains the Discord bot code.
 - `requirements.txt`: File containing Python dependencies.
 
 ---
