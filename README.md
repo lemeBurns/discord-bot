@@ -51,12 +51,6 @@ The bot fetches data from the provided Google Drive link (CSV format) containing
 - `bot.py`: Contains the Discord bot code.
 - `requirements.txt`: File containing Python dependencies.
 
-## Contributions
-Contributions are welcome. Feel free to fork the repository, make changes, and create a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
-Make sure to add a `LICENSE` file if you want to specify the licensing information and adjust the sections as per your project's requirements. Also, include relevant badges (e.g., license, stars, forks) if applicable. This README will provide users with a clear understanding of what your Discord bot does and how to use it.
+
