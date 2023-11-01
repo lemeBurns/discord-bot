@@ -1,2 +1,2 @@
 # discord-bot
-sends test for every 18hrs
+sends text for every 18hrs
